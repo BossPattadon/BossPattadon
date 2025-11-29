@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pattadon Udompaipeuk</h1>
-<h3 align="center">I am 2nd year Software and Knowledge Engineering student.</h3>
+<h3 align="center">I am 2nd year Software and Knowledge Engineering student at Kasetsart University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bosspattadon&label=Profile%20views&color=0e75b6&style=flat" alt="bosspattadon" /> </p>
 
