@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bosspattadon" alt="bosspattadon" /></a> </p>
 
-- 🔭 I’m currently working on [KUPantip](https://github.com/kupantip/kupantip)
-
 - 📫 How to reach me **pattadon.162549@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
